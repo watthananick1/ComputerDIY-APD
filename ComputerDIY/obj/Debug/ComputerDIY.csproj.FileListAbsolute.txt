@@ -1,0 +1,6 @@
+C:\APD\Computer-DIY-STOCK-main\ComputerDIY\obj\Debug\ComputerDIY.csproj.AssemblyReference.cache
+C:\APD\Computer-DIY-STOCK-main\ComputerDIY\obj\Debug\ComputerDIY.csproj.SuggestedBindingRedirects.cache
+C:\APD\ComputerDIY\ComputerDIY\obj\Debug\ComputerDIY.csproj.AssemblyReference.cache
+C:\APD\ComputerDIY\ComputerDIY\obj\Debug\ComputerDIY.csproj.SuggestedBindingRedirects.cache
+D:\APD\ComputerDIY\ComputerDIY\obj\Debug\ComputerDIY.csproj.AssemblyReference.cache
+D:\APD\ComputerDIY\ComputerDIY\obj\Debug\ComputerDIY.csproj.SuggestedBindingRedirects.cache
